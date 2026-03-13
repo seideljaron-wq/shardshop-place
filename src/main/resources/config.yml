@@ -1,0 +1,11 @@
+# ShardShopBlock Configuration
+# Registered Shulker Box locations are saved here automatically.
+# Format: "world,x,y,z"
+shop-blocks: []
+
+# Particle effect shown above registered boxes (true/false)
+show-particles: true
+
+# Hologram text shown above the box (requires no extra plugin)
+# Leave empty to disable: hologram-text: ""
+hologram-text: "&b✦ Shard Shop ✦"
